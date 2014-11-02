@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Web Mobile Group Chat</string>
+    <string name="title">Phòng chat nhóm</string>
+    <string name="author_name">Lê Viễn Trình</string>
+    <string name="author_url">facebook.com/mrvientrinh</string>
+    <string name="enter_name">Nhập tên</string>
+    <string name="btn_join">Tham gia</string>
+    <string name="btn_send">Gửi</string>
+	<string name="type_here">Gõ tin nhắn ở đây …</string>
+</resources>
