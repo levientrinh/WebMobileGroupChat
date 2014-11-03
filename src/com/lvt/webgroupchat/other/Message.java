@@ -1,4 +1,4 @@
-package info.androidhive.webgroupchat.other;
+package com.lvt.webgroupchat.other;
 
 public class Message {
 	private String fromName, message;

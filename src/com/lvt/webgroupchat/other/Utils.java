@@ -1,4 +1,4 @@
-package info.androidhive.webgroupchat.other;
+package com.lvt.webgroupchat.other;
 
 import org.json.JSONException;
 import org.json.JSONObject;

@@ -1,8 +1,6 @@
-package info.androidhive.webgroupchat;
+package com.lvt.webgroupchat;
 
-import info.androidhive.webgroupchat.other.Message;
-import info.androidhive.webgroupchat.other.Utils;
-import info.androidhive.webgroupchat.other.WsConfig;
+import info.androidhive.webgroupchat.R;
 
 import java.net.URI;
 import java.net.URLEncoder;
@@ -27,6 +25,9 @@ import android.widget.ListView;
 import android.widget.Toast;
 
 import com.codebutler.android_websockets.WebSocketClient;
+import com.lvt.webgroupchat.other.Message;
+import com.lvt.webgroupchat.other.Utils;
+import com.lvt.webgroupchat.other.WsConfig;
 
 public class MainActivity extends Activity {
 

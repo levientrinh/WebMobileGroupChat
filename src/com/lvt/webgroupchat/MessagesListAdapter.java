@@ -1,8 +1,10 @@
-package info.androidhive.webgroupchat;
+package com.lvt.webgroupchat;
 
-import info.androidhive.webgroupchat.other.Message;
+import info.androidhive.webgroupchat.R;
 
 import java.util.List;
+
+import com.lvt.webgroupchat.other.Message;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;

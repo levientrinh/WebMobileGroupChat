@@ -1,5 +1,6 @@
-package info.androidhive.webgroupchat;
+package com.lvt.webgroupchat;
 
+import info.androidhive.webgroupchat.R;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
